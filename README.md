@@ -50,6 +50,13 @@ E o React irá executar na porta **3000***
 
 ### Rotas
 
+
+``` 
+localhost:3333/chat/login/:login [GET] - Permite acesso ao chat
+caso não saiba o nome de um usuário, use 'Jhemerson' 
+que a api retornará o primeiro usuário cadastrado no mongo
+```
+
 ``` localhost:3333/chat [GET] - retorna um array com todos usuários cadastrados ```
 
 ``` 
