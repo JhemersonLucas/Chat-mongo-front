@@ -1,0 +1,14 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+      "version": "1.0.0",
+      "title": "Chat",
+      "description": "envio de mensagem e painel admin",
+      "license": {
+          "name": "MIT",
+          "url": "https://opensource.org/licenses/MIT"
+      }
+  },
+  "host":"http://localhost:3333",
+  "basePath": "/"
+}
