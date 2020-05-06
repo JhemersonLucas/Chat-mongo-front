@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64 Bit Versão de avaliação) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="350px" height="150px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 350 150"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="795" font-variant="normal" style="fill-rule:nonzero" font-weight="500">
+	<font-face 
+		font-family="Gotham Black">
+		<font-face-src>
+			<font-face-name name="Gotham-Black"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="C" horiz-adv-x="730" d="M399.002 -13.9961c155.009,0 244.005,66.9924 310.005,157.997l-145.997 103.997c-42.0002,-51.0002 -85.0043,-84.9925 -158.009,-84.9925 -97.9965,0 -166.997,81.9925 -166.997,186.993l0 2.00788c0,102 69.0003,184.997 166.997,184.997 67.0042,0 113.008,-31.9962 153.001,-82.0043l146.009 113.008c-62.0082,85.9964 -154.005,145.997 -297.013,145.997 -211.997,0 -369.002,-159.993 -369.002,-364.006l0 -1.99607c0,-208.997 161.009,-361.998 361.006,-361.998z"/>
+   <glyph unicode="a" horiz-adv-x="599" d="M205.997 -12.0001c71.0082,0 122.008,27.0001 159.001,67.9964l0 -55.9963 188.009 0 0 310.997c0,76.0043 -16.9961,132.001 -58.0042,172.005 -43.0041,43.0041 -109.004,66.0003 -205.997,66.0003 -93.0004,0 -158.009,-16.9961 -219.001,-42.0002l39.0002 -133.997c48.0002,18.9922 91.9965,30.0001 148.997,30.0001 73.0043,0 108,-32.008 108,-88.0043l0 -9.00004c-31.0041,10.9961 -79.9964,21.0001 -130.005,21.0001 -126.993,0 -211.997,-58.0042 -211.997,-169.997l0 -2.00788c0,-108 79.0043,-166.997 181.997,-166.997zm68.0082 118.997c-39.0002,0 -67.0042,22.004 -67.0042,59.0081l0 1.99607c0,40.0041 31.9962,67.0042 87.0004,67.0042 28.0041,0 55.0042,-6.00003 73.9964,-14.0079l0 -24.9922c0,-54.0002 -39.0002,-89.0083 -93.9925,-89.0083z"/>
+   <glyph unicode="h" horiz-adv-x="634" d="M51.0002 0l190.005 0 0 292.997c0,59.0081 33.9923,91.0043 79.9964,91.0043 45.0002,0 76.0043,-31.9962 76.0043,-91.0043l0 -292.997 190.005 0 0 354.002c0,123.001 -69.0003,199.005 -184.005,199.005 -77.0082,0 -127.005,-40.9962 -162.001,-86.0083l0 263.009 -190.005 0 0 -730.007z"/>
+   <glyph unicode="t" horiz-adv-x="430" d="M265.997 -10.9961c53.0081,0 98.0083,12.0001 132.001,30.9923l0 149.009c-22.9962,-11.0079 -46.9963,-18.0001 -72.0003,-18.0001 -34.9962,0 -51.9924,15.9922 -51.9924,54.0002l0 183.001 126.001 0 0 153.001 -126.001 0 0 136.997 -190.005 0 0 -136.997 -64.0042 0 0 -153.001 64.0042 0 0 -220.005c0,-129.001 67.9964,-178.997 181.997,-178.997z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Gotham Black";font-variant:normal;font-weight:500;src:url("#FontID0") format(svg)}
+    .str0 {stroke-width:9;stroke-miterlimit:22.9256}
+    .str2 {stroke:#333333;stroke-width:2.36;stroke-miterlimit:22.9256}
+    .str1 {stroke:#333333;stroke-width:0.9;stroke-miterlimit:22.9256}
+    .fil2 {fill:none}
+    .fil1 {fill:#202020}
+    .fil0 {fill:url(#id0)}
+    .fnt0 {font-weight:500;font-size:100px;font-family:'Gotham Black'}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="277.58" y1="52.34" x2="307.25" y2="52.34">
+   <stop offset="0" style="stop-opacity:1; stop-color:#333333"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1A1A1A"/>
+  </linearGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1982504029840">
+   <path class="fil0" d="M300.26 34.56c-7.48,-3.95 -16.88,-1.46 -21.37,5.73 -4.07,6.49 -3.11,14.8 2.04,19.96 5.41,5.4 1.5,9.85 1.5,9.85 0,0 8.64,-0.62 13.22,-2.37 7.73,-2.91 11.1,-9.14 12.43,-13.63 2.2,-7.45 -0.63,-15.72 -7.82,-19.54z"/>
+   <text x="33.08" y="116.02"  class="fil1 fnt0">Chat</text>
+   <text x="34.78" y="114.4"  class="fil2 str1 fnt0">Chat</text>
+   <path class="fil2 str2" d="M304.57 34.45c-7.48,-3.95 -16.88,-1.46 -21.37,5.73 -4.07,6.49 -3.12,14.8 2.04,19.96 5.4,5.4 1.5,9.85 1.5,9.85 0,0 8.64,-0.62 13.22,-2.37 7.73,-2.91 11.1,-9.15 12.43,-13.64 2.2,-7.44 -0.63,-15.71 -7.82,-19.53z"/>
+  </g>
+ </g>
+</svg>
