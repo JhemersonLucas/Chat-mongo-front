@@ -14,7 +14,7 @@ git clone https://github.com/JhemersonLucas/Chat-mongo-front.git
 entre na pasta do backend e execute o comando **yarn**
 
 ``` 
-cd Chat-mongo-font
+cd Chat-mongo-front
 cd backend
 yarn
 ```
